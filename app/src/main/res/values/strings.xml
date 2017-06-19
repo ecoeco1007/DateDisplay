@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DateDisplay</string>
+    <string name="shift_date_format">yyyy/MM/dd(E)</string>
+    <string name="shift_time_format">HH:mm</string>
+</resources>

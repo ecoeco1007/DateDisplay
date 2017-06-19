@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kenichiarita/git/DateDisplay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c07e3df76a75c70f53892e537c48dddca752c28">
+        <dex dex="/Users/kenichiarita/git/DateDisplay/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6851e32ce74c7bce852c08da926c003008a8696f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kenichiarita/git/DateDisplay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/kenichiarita/git/DateDisplay/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_007093cb1580d8d535f3959d0a0d78457f0ec251/classes.dex" />
+    </item>
+
+</items>
